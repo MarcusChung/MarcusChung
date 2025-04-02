@@ -1,6 +1,11 @@
 # Hi there 👋
 ⭐ I’m currently learning and honing my cybersecurity skills on Immersive Labs Cyber Million and completing Cyber Million Defensive Sec Ops labs. 
 
+### Key Modules and Notable Projects:
+#### ⭐	2D Snake game developed using Unity.
+#### ⭐	Social media web application using Laravel (MVC).
+#### ⭐	News Aggregator for Android applications with Kotlin.
+#### ⭐	3D mobile game (Unity) with Haptic Feedback system (ESP32) connected with Bluetooth Low-Energy
 <details>
 <summary>⚡ View my achievements from Cyber Million Defensive Security Operations: </summary>
 <p style="margin:5px"> This demonstrates my ability and aptitude to work in Defensive Security Operations. </p>
