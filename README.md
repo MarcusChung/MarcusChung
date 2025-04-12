@@ -9,7 +9,7 @@
 
 ### Languages: Python, C++, Kotlin, C#, PHP, Haskell, VB, SQL, JS, Java
 ## ⚡ View my achievements from Cyber Million Defensive Security Operations
-<details>
+
 <p style="margin:5px"> This demonstrates my ability and aptitude to work in Defensive Security Operations. </p>
 
 <a href="https://immersivelabs.online/share/achievement/e8d2c8a126f50c82c558a3cdbb11009e"><img src=/images/splunk_badge.png align="left" width="200" ></a>
@@ -23,7 +23,7 @@
 <a href="https://immersivelabs.online/share/achievement/cb476bf7f97a3f22fefdd1de4dcd8201"><img src=/images/mitre_att&ck_badge.png align="left" width="200" ></a>
 
 <a href="https://immersivelabs.online/share/achievement/2d9261411f840b3e49ae023882ce458a"><img src=/images/encoding_badge.png align="left" width="200" ></a>
-</details>
+
 
 
 <!--
