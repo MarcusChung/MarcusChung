@@ -24,6 +24,8 @@
 
 <a href="https://immersivelabs.online/share/achievement/2d9261411f840b3e49ae023882ce458a"><img src=/images/encoding_badge.png align="left" width="200" ></a>
 
+<a href="https://immersivelabs.online/share/achievement/103f53a6d9520556f992baa5ff4ad3fb"><img src=/images/web_analysis_badge.png align="left" width="200" ></a>
+
 
 
 <!--
