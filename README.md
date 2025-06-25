@@ -28,6 +28,8 @@
 
 <a href="https://api.immersivelabs.online/share/achievements/49994c447907a5ccb557855f37d66b7c"><img src=/images/command_line_Badge.png align="left" width="200" ></a>
 
+<a href="https://immersivelabs.online/share/achievement/18d0593265fa0f9b4accd0816a258b46"><img src=/images/incident_badge.png align="left" width="200" ></a>
+
 
 
 <!--
