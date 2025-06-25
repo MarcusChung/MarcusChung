@@ -8,7 +8,7 @@
 #### ⭐	3D mobile game (Unity) with Haptic Feedback system (ESP32) connected with Bluetooth Low-Energy
 
 ### Languages: Python, C++, Kotlin, C#, PHP, Haskell, VB, SQL, JS, Java
-## ⚡ View my achievements from Cyber Million Defensive Security Operations
+## ⚡ View my achievements from Cyber Million Defensive Security Ops (100% 🎉)
 
 <p style="margin:5px"> This demonstrates my ability and aptitude to work in Defensive Security Operations. </p>
 
